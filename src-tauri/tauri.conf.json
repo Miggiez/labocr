@@ -31,6 +31,6 @@
 			"icons/icon.icns",
 			"icons/icon.ico"
 		],
-		"externalBin": ["bin/python/stream", "bin/python/camera"]
+		"externalBin": ["bin/python/stream"]
 	}
 }

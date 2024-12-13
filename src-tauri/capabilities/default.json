@@ -12,10 +12,6 @@
 				{
 					"name": "bin/python/stream",
 					"sidecar": true
-				},
-				{
-					"name": "bin/python/camera",
-					"sidecar": true
 				}
 			]
 		}
