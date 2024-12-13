@@ -134,11 +134,11 @@ export const Sockets = () => {
 							Stop
 						</button>
 						<button
-							className={`bg-white font-bold text-xl px-10 py-4 rounded-lg text-black ${
+							className={
 								isRec
-									? "bg-red-600 shadow-inner "
-									: "bg-green-600 drop-shadow-xl shadow-xl"
-							}`}
+									? "font-bold text-xl px-10 py-4 rounded-lg text-black bg-red-600 shadow-inner"
+									: "font-bold text-xl px-10 py-4 rounded-lg text-black bg-green-600 drop-shadow-xl shadow-xl"
+							}
 							onClick={handleRecord}
 						>
 							Record
