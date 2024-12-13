@@ -1,0 +1,7 @@
+cvzone==1.6.1
+Flask==3.1.0
+Flask_Cors==5.0.0
+Flask_SocketIO==5.4.1
+numpy==2.2.0
+opencv_python==4.10.0.84
+python_engineio==4.10.1
